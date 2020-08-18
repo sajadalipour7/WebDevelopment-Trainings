@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Webdevelopment-Trainings/static/css/main.925ece2b.chunk.css",
-    "main.js": "/Webdevelopment-Trainings/static/js/main.1bb50e0f.chunk.js",
-    "main.js.map": "/Webdevelopment-Trainings/static/js/main.1bb50e0f.chunk.js.map",
-    "runtime-main.js": "/Webdevelopment-Trainings/static/js/runtime-main.b429edaf.js",
-    "runtime-main.js.map": "/Webdevelopment-Trainings/static/js/runtime-main.b429edaf.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Webdevelopment-Trainings/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.f690e5d6.chunk.js": "/Webdevelopment-Trainings/static/js/2.f690e5d6.chunk.js",
-    "static/js/2.f690e5d6.chunk.js.map": "/Webdevelopment-Trainings/static/js/2.f690e5d6.chunk.js.map",
-    "index.html": "/Webdevelopment-Trainings/index.html",
-    "precache-manifest.cc4d1cfeb6cb76110caecd5044d67c59.js": "/Webdevelopment-Trainings/precache-manifest.cc4d1cfeb6cb76110caecd5044d67c59.js",
-    "service-worker.js": "/Webdevelopment-Trainings/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Webdevelopment-Trainings/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.925ece2b.chunk.css.map": "/Webdevelopment-Trainings/static/css/main.925ece2b.chunk.css.map",
-    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/Webdevelopment-Trainings/static/js/2.f690e5d6.chunk.js.LICENSE.txt"
+    "main.css": "/WebDevelopment-Trainings/static/css/main.925ece2b.chunk.css",
+    "main.js": "/WebDevelopment-Trainings/static/js/main.fbf74255.chunk.js",
+    "main.js.map": "/WebDevelopment-Trainings/static/js/main.fbf74255.chunk.js.map",
+    "runtime-main.js": "/WebDevelopment-Trainings/static/js/runtime-main.e7c84596.js",
+    "runtime-main.js.map": "/WebDevelopment-Trainings/static/js/runtime-main.e7c84596.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/WebDevelopment-Trainings/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f690e5d6.chunk.js": "/WebDevelopment-Trainings/static/js/2.f690e5d6.chunk.js",
+    "static/js/2.f690e5d6.chunk.js.map": "/WebDevelopment-Trainings/static/js/2.f690e5d6.chunk.js.map",
+    "index.html": "/WebDevelopment-Trainings/index.html",
+    "precache-manifest.a13eac15ea4649317f085849a9830248.js": "/WebDevelopment-Trainings/precache-manifest.a13eac15ea4649317f085849a9830248.js",
+    "service-worker.js": "/WebDevelopment-Trainings/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/WebDevelopment-Trainings/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.925ece2b.chunk.css.map": "/WebDevelopment-Trainings/static/css/main.925ece2b.chunk.css.map",
+    "static/js/2.f690e5d6.chunk.js.LICENSE.txt": "/WebDevelopment-Trainings/static/js/2.f690e5d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b429edaf.js",
+    "static/js/runtime-main.e7c84596.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.f690e5d6.chunk.js",
     "static/css/main.925ece2b.chunk.css",
-    "static/js/main.1bb50e0f.chunk.js"
+    "static/js/main.fbf74255.chunk.js"
   ]
 }
