@@ -1,15 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Provider,connect} from 'react-redux';
-import {createStore} from 'redux';
+import {createStore,applyMiddleware} from 'redux';
+import {createLogger} from 'redux-logger';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import App from './containers/App';
 import {searchRobots} from './reducers';
 import 'tachyons';
 
+const logger=createLogger();
+const store=createStore(searchRobots,applyMiddleware(logger));
 
-const store=createStore(searchRobots);
 
 
 ReactDOM.render(
