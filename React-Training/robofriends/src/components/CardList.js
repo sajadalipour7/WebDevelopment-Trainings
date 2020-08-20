@@ -2,6 +2,10 @@ import React from 'react';
 import Card from './Card';
 
 const CardList=({robots})=>{
+	// Testing error boundry for build mode
+	// if(true){
+	// 	throw new Error('Nooooo!');
+	// }
 	return(
 		<div>
     		{robots.map((user)=>{
